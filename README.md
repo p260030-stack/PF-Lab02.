@@ -16,3 +16,8 @@ int main()
  printf("Motto\t:\"Knowledge is Power\"\n");
 return 0;
 }
+
+
+
+
+
