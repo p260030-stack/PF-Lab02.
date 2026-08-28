@@ -1,0 +1,15 @@
+include<stdio.h>
+int main()
+{
+char my name='A';
+int my int=100;
+float my number=5.22;
+double my double=99.177;
+printf("type name\tvalue\tmemory size\t\n")
+printf("char\t%c\t%zu\n",my name);
+printf("int\t%d\t%zu\n",my int);
+printf("float\t%f\t%zu\n",my number);
+printf("double\t%f\t%zu\n",my double);
+return 0;
+}
+

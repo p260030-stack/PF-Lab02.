@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+printf("to print double quoutes write \\\""\n");
+printf("to write backslah write:\\\\""\n");
+printf("to write new line we put \\n\n");
+printf("to write space we right \\t\n");
+return 0;
+}
